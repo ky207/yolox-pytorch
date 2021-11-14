@@ -1,5 +1,8 @@
 # yolox-pytorch
 YOLOX：You Only Look Once Implementation of target detection model in pytoch
+## 权值文件下载
+链接：https://pan.baidu.com/s/1CXHV-a90k0Bb6v_QvTHcTA 
+提取码：tlei
 ## 所需环境
 pytorch==1.2.0
 ## 训练步骤
