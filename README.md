@@ -1,4 +1,4 @@
-# yolox-pytirch
+# yolox-pytorch
 YOLOX：You Only Look Once Implementation of target detection model in pytoch
 ## 所需环境
 pytorch==1.2.0
